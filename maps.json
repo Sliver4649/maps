@@ -48,5 +48,20 @@
       "data\/0.8.1\/Let's play by preaton\/screen_2_1765534663783.jpg",
       "data\/0.8.1\/Let's play by preaton\/screen_3_1765534679937.jpg"
     ]
+  },
+  {
+    "title": "Skyblock 0.8.1",
+    "version": "0.8.1",
+    "short_description": "Skyblock in minecraft pe alpha 0.8.1 !",
+    "full_description": "How to add skyblock map in minecraft pe\n\n1. Extract the ZIP file and copy the Skyblock file.\n\n2. Open your file manager and scroll until you find the \"games\" folder, then open it.\n\n3. Open the \"com.mojang\" folder.\n\n4. Find the \"minecraftWorlds\" folder and paste the Skyblock folder inside it.\n\n5. Done — your map should now appear in the game.",
+    "thumbnail": "data\/0.8.1\/Skyblock 0.8.1\/thumb_1771762928066.jpg",
+    "file": "data\/0.8.1\/Skyblock 0.8.1\/Skyblock 0.8.1.zip",
+    "date": "2026-02-22 15:22",
+    "type": "maps",
+    "alt_link": "https:\/\/www.mediafire.com\/file\/jj8db520kpgnf7u\/Skyblock.zip\/file",
+    "author": {
+      "name": "IamRealCaster",
+      "avatar": "https:\/\/avatars.githubusercontent.com\/u\/89154310?v=4"
+    }
   }
 ]
